@@ -1,0 +1,7 @@
+{
+  "name": "jugaad-advisory-website",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "tsx src/build.ts", "typecheck": "tsc -p .", "test": "node tests/verify.mjs" },
+  "devDependencies": { "tsx": "^4", "typescript": "^5", "@types/node": "^22", "playwright": "^1" }
+}

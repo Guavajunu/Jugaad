@@ -1,0 +1,2084 @@
+[
+ {
+  "page": "/",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Jugaad Advisory | The Problem Solver"
+ },
+ {
+  "page": "/",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "177 chars"
+ },
+ {
+  "page": "/",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/"
+ },
+ {
+  "page": "/",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "6199 chars"
+ },
+ {
+  "page": "/",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "7 phrases found"
+ },
+ {
+  "page": "/",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "Organization,WebSite"
+ },
+ {
+  "page": "/",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/about",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/about",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/about",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "About Jugaad Advisory | A Founder-Led Advisory Practice"
+ },
+ {
+  "page": "/about",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "146 chars"
+ },
+ {
+  "page": "/about",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/about"
+ },
+ {
+  "page": "/about",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/about",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/about",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/about",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "3803 chars"
+ },
+ {
+  "page": "/about",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "10 phrases found"
+ },
+ {
+  "page": "/about",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/about",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/about",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/approach",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/approach",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/approach",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "The Approach | Jugaad Advisory"
+ },
+ {
+  "page": "/approach",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "147 chars"
+ },
+ {
+  "page": "/approach",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/approach"
+ },
+ {
+  "page": "/approach",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/approach",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/approach",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/approach",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "2356 chars"
+ },
+ {
+  "page": "/approach",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "8 phrases found"
+ },
+ {
+  "page": "/approach",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/approach",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/approach",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/practice-areas",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Practice Areas | Jugaad Advisory"
+ },
+ {
+  "page": "/practice-areas",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "152 chars"
+ },
+ {
+  "page": "/practice-areas",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/practice-areas"
+ },
+ {
+  "page": "/practice-areas",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/practice-areas",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "3228 chars"
+ },
+ {
+  "page": "/practice-areas",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "8 phrases found"
+ },
+ {
+  "page": "/practice-areas",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/practice-areas",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/business",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/practice-areas/business",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/business",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Business Strategy &amp; Advisory | Jugaad Advisory"
+ },
+ {
+  "page": "/practice-areas/business",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "131 chars"
+ },
+ {
+  "page": "/practice-areas/business",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/practice-areas/business"
+ },
+ {
+  "page": "/practice-areas/business",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/business",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/business",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/practice-areas/business",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "1918 chars"
+ },
+ {
+  "page": "/practice-areas/business",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "3 phrases found"
+ },
+ {
+  "page": "/practice-areas/business",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/practice-areas/business",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/business",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/creative",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/practice-areas/creative",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/creative",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Creative, Film &amp; Media Advisory | Jugaad Advisory"
+ },
+ {
+  "page": "/practice-areas/creative",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "122 chars"
+ },
+ {
+  "page": "/practice-areas/creative",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/practice-areas/creative"
+ },
+ {
+  "page": "/practice-areas/creative",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/creative",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/creative",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/practice-areas/creative",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "1831 chars"
+ },
+ {
+  "page": "/practice-areas/creative",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "3 phrases found"
+ },
+ {
+  "page": "/practice-areas/creative",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/practice-areas/creative",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/creative",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/production",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/practice-areas/production",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/production",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Production Planning &amp; Cost Advisory | Jugaad Advisory"
+ },
+ {
+  "page": "/practice-areas/production",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "119 chars"
+ },
+ {
+  "page": "/practice-areas/production",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/practice-areas/production"
+ },
+ {
+  "page": "/practice-areas/production",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/production",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/production",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/practice-areas/production",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "1748 chars"
+ },
+ {
+  "page": "/practice-areas/production",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "3 phrases found"
+ },
+ {
+  "page": "/practice-areas/production",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/practice-areas/production",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/production",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/legal-resolution",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/practice-areas/legal-resolution",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/legal-resolution",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Dispute-Resolution Support | Jugaad Advisory"
+ },
+ {
+  "page": "/practice-areas/legal-resolution",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "159 chars"
+ },
+ {
+  "page": "/practice-areas/legal-resolution",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/practice-areas/legal-resolution"
+ },
+ {
+  "page": "/practice-areas/legal-resolution",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/legal-resolution",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/legal-resolution",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/practice-areas/legal-resolution",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "2241 chars"
+ },
+ {
+  "page": "/practice-areas/legal-resolution",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "4 phrases found"
+ },
+ {
+  "page": "/practice-areas/legal-resolution",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/practice-areas/legal-resolution",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/legal-resolution",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/realty",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/practice-areas/realty",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/realty",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Property &amp; Realty Advisory | Jugaad Advisory"
+ },
+ {
+  "page": "/practice-areas/realty",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "154 chars"
+ },
+ {
+  "page": "/practice-areas/realty",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/practice-areas/realty"
+ },
+ {
+  "page": "/practice-areas/realty",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/realty",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/realty",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/practice-areas/realty",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "2023 chars"
+ },
+ {
+  "page": "/practice-areas/realty",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "3 phrases found"
+ },
+ {
+  "page": "/practice-areas/realty",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/practice-areas/realty",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/realty",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/connect-industry",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/practice-areas/connect-industry",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/connect-industry",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Institutional &amp; Industry Connect | Jugaad Advisory"
+ },
+ {
+  "page": "/practice-areas/connect-industry",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "186 chars"
+ },
+ {
+  "page": "/practice-areas/connect-industry",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/practice-areas/connect-industry"
+ },
+ {
+  "page": "/practice-areas/connect-industry",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/connect-industry",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/connect-industry",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/practice-areas/connect-industry",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "2687 chars"
+ },
+ {
+  "page": "/practice-areas/connect-industry",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "5 phrases found"
+ },
+ {
+  "page": "/practice-areas/connect-industry",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/practice-areas/connect-industry",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/connect-industry",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/earth-agriculture",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/practice-areas/earth-agriculture",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/earth-agriculture",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Agriculture, Rural &amp; Environment | Jugaad Advisory"
+ },
+ {
+  "page": "/practice-areas/earth-agriculture",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "155 chars"
+ },
+ {
+  "page": "/practice-areas/earth-agriculture",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/practice-areas/earth-agriculture"
+ },
+ {
+  "page": "/practice-areas/earth-agriculture",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/earth-agriculture",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/earth-agriculture",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/practice-areas/earth-agriculture",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "2142 chars"
+ },
+ {
+  "page": "/practice-areas/earth-agriculture",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "4 phrases found"
+ },
+ {
+  "page": "/practice-areas/earth-agriculture",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/practice-areas/earth-agriculture",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/practice-areas/earth-agriculture",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/international-connect",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/international-connect",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/international-connect",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "International &amp; National Connect | Jugaad Advisory"
+ },
+ {
+  "page": "/international-connect",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "187 chars"
+ },
+ {
+  "page": "/international-connect",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/international-connect"
+ },
+ {
+  "page": "/international-connect",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/international-connect",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/international-connect",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/international-connect",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "3672 chars"
+ },
+ {
+  "page": "/international-connect",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "8 phrases found"
+ },
+ {
+  "page": "/international-connect",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/international-connect",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/international-connect",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/insights",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/insights",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/insights",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Insights | Jugaad Advisory"
+ },
+ {
+  "page": "/insights",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "153 chars"
+ },
+ {
+  "page": "/insights",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/insights"
+ },
+ {
+  "page": "/insights",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/insights",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/insights",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/insights",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "1492 chars"
+ },
+ {
+  "page": "/insights",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "2 phrases found"
+ },
+ {
+  "page": "/insights",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/insights",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/insights",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/contact",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/contact",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/contact",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Contact Jugaad Advisory | Tell Us What You Are Trying to Solve"
+ },
+ {
+  "page": "/contact",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "131 chars"
+ },
+ {
+  "page": "/contact",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/contact"
+ },
+ {
+  "page": "/contact",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/contact",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/contact",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/contact",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "1608 chars"
+ },
+ {
+  "page": "/contact",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "11 phrases found"
+ },
+ {
+  "page": "/contact",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/contact",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/contact",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/privacy-policy",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/privacy-policy",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/privacy-policy",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Privacy Policy | Jugaad Advisory"
+ },
+ {
+  "page": "/privacy-policy",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "124 chars"
+ },
+ {
+  "page": "/privacy-policy",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/privacy-policy"
+ },
+ {
+  "page": "/privacy-policy",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/privacy-policy",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/privacy-policy",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/privacy-policy",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "1391 chars"
+ },
+ {
+  "page": "/privacy-policy",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "2 phrases found"
+ },
+ {
+  "page": "/privacy-policy",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/privacy-policy",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/privacy-policy",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/terms",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/terms",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/terms",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Terms of Use | Jugaad Advisory"
+ },
+ {
+  "page": "/terms",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "130 chars"
+ },
+ {
+  "page": "/terms",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/terms"
+ },
+ {
+  "page": "/terms",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/terms",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/terms",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/terms",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "1295 chars"
+ },
+ {
+  "page": "/terms",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "2 phrases found"
+ },
+ {
+  "page": "/terms",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/terms",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/terms",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "links",
+  "name": "internal link / -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /about -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /approach -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /practice-areas -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /international-connect -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /insights -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /contact -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /practice-areas/business -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /practice-areas/creative -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /practice-areas/production -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /practice-areas/legal-resolution -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /practice-areas/realty -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /practice-areas/connect-industry -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /practice-areas/earth-agriculture -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /privacy-policy -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /terms -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "assets",
+  "name": "asset /favicon.png -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "assets",
+  "name": "asset /assets/site.css -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "assets",
+  "name": "asset /assets/img/logo.jpg -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "assets",
+  "name": "asset /assets/img/founder-portrait.jpg -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "assets",
+  "name": "asset /assets/site.js -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "assets",
+  "name": "asset /assets/img/founder-bookshelf.jpg -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "assets",
+  "name": "asset /assets/img/founder-wall.jpg -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "crawled 16 distinct internal links and 7 assets",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "sitemap",
+  "name": "sitemap.xml accessible",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "sitemap",
+  "name": "lists all 16 public pages, nothing extra",
+  "ok": true,
+  "detail": "16 urls"
+ },
+ {
+  "page": "robots",
+  "name": "robots.txt accessible, allows all, points to sitemap",
+  "ok": true,
+  "detail": "\"User-agent: *\\nAllow: /\\n\\nSitemap: https://jugaadadvisory.com/sitemap.xml\\n\""
+ },
+ {
+  "page": "404",
+  "name": "unknown URL returns real 404",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "redirect",
+  "name": "trailing slash redirects to canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "headers",
+  "name": "_headers file has security headers",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /about",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /about",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /about",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /approach",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /approach",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /approach",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /practice-areas",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas/business",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas/business",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /practice-areas/business",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas/creative",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas/creative",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /practice-areas/creative",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas/production",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas/production",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /practice-areas/production",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas/legal-resolution",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas/legal-resolution",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /practice-areas/legal-resolution",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas/realty",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas/realty",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /practice-areas/realty",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas/connect-industry",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas/connect-industry",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /practice-areas/connect-industry",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas/earth-agriculture",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /practice-areas/earth-agriculture",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /practice-areas/earth-agriculture",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /international-connect",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /international-connect",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /international-connect",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /insights",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /insights",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /insights",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /contact",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /contact",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /contact",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /privacy-policy",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /privacy-policy",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /privacy-policy",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /terms",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /terms",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /terms",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /about",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /about",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /about",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /approach",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /approach",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /approach",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /practice-areas",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas/business",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas/business",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /practice-areas/business",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas/creative",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas/creative",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /practice-areas/creative",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas/production",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas/production",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /practice-areas/production",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas/legal-resolution",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas/legal-resolution",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /practice-areas/legal-resolution",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas/realty",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas/realty",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /practice-areas/realty",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas/connect-industry",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas/connect-industry",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /practice-areas/connect-industry",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas/earth-agriculture",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /practice-areas/earth-agriculture",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /practice-areas/earth-agriculture",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /international-connect",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /international-connect",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /international-connect",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /insights",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /insights",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /insights",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /contact",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /contact",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /contact",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /privacy-policy",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /privacy-policy",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /privacy-policy",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /terms",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /terms",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /terms",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "nav",
+  "name": "mobile menu hidden before opening",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "nav",
+  "name": "mobile menu opens (aria-expanded=true)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "nav",
+  "name": "menu link navigates to /international-connect",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "nav",
+  "name": "practice list links to individual page",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "nav",
+  "name": "breadcrumb works",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "nav",
+  "name": "deep link opens directly (no home redirect)",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "nav",
+  "name": "desktop nav shows visible Contact link",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "nav",
+  "name": "skip link reachable by keyboard",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "no-js",
+  "name": "page content visible with JavaScript off",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "no-js",
+  "name": "navigation visible and usable with JavaScript off",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "form",
+  "name": "empty submit shows validation errors, no success message",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "form",
+  "name": "invalid email is rejected",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "form",
+  "name": "valid submit states honestly that nothing has been sent yet",
+  "ok": true,
+  "detail": "Your email app should now open with the enquiry drafted. It has not been sent ye"
+ }
+]
