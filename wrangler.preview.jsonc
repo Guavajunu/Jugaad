@@ -1,0 +1,8 @@
+{
+  // Preview-only Worker config. Used by a SEPARATE Cloudflare Worker named "jugaad-preview".
+  // Deploy command for that Worker: npx wrangler deploy -c wrangler.preview.jsonc
+  // The production Worker "jugaad" keeps using wrangler.jsonc, which is not changed.
+  "name": "jugaad-preview",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./dist", "html_handling": "drop-trailing-slash", "not_found_handling": "404-page" }
+}
