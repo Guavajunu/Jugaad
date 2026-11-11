@@ -31,3 +31,4 @@ The project in Cloudflare is a Worker named `jugaad`. `wrangler.jsonc` points it
 - Have Privacy Policy and Terms reviewed by a professional
 - Replace dashed image slots with real photographs; consider a professional founder photo
 - Add social links to `CFG.social` when supplied; connect a form service via `CFG.formEndpoint` if wanted
+- Trigger preview deployment
