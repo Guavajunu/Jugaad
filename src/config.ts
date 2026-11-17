@@ -14,6 +14,6 @@ export const CFG = {
   social: { facebook: "", instagram: "", x: "", youtube: "" }, // TODO: add exact URLs when supplied
   formEndpoint: "", // TODO: optional form service URL. Empty = visitor's email app is used (no false "sent" message)
   analytics: "", // TODO: privacy-conscious analytics integration point (e.g. a Cloudflare Web Analytics token)
-  lastModified: "2026-11-11",
+  lastModified: "2026-11-17",
 };
 export const EMAIL = CFG.publicEmailLive ? CFG.publicEmail : CFG.founderEmail;

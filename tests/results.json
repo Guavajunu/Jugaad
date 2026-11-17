@@ -51,7 +51,7 @@
   "page": "/",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "6199 chars"
+  "detail": "6233 chars"
  },
  {
   "page": "/",
@@ -129,7 +129,7 @@
   "page": "/about",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "3803 chars"
+  "detail": "3837 chars"
  },
  {
   "page": "/about",
@@ -207,7 +207,7 @@
   "page": "/approach",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "2356 chars"
+  "detail": "2390 chars"
  },
  {
   "page": "/approach",
@@ -285,7 +285,7 @@
   "page": "/practice-areas",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "3228 chars"
+  "detail": "3262 chars"
  },
  {
   "page": "/practice-areas",
@@ -363,7 +363,7 @@
   "page": "/practice-areas/business",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "1918 chars"
+  "detail": "1952 chars"
  },
  {
   "page": "/practice-areas/business",
@@ -441,7 +441,7 @@
   "page": "/practice-areas/creative",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "1831 chars"
+  "detail": "1865 chars"
  },
  {
   "page": "/practice-areas/creative",
@@ -519,7 +519,7 @@
   "page": "/practice-areas/production",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "1748 chars"
+  "detail": "1782 chars"
  },
  {
   "page": "/practice-areas/production",
@@ -597,7 +597,7 @@
   "page": "/practice-areas/legal-resolution",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "2241 chars"
+  "detail": "2275 chars"
  },
  {
   "page": "/practice-areas/legal-resolution",
@@ -675,7 +675,7 @@
   "page": "/practice-areas/realty",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "2023 chars"
+  "detail": "2057 chars"
  },
  {
   "page": "/practice-areas/realty",
@@ -753,7 +753,7 @@
   "page": "/practice-areas/connect-industry",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "2687 chars"
+  "detail": "2721 chars"
  },
  {
   "page": "/practice-areas/connect-industry",
@@ -831,7 +831,7 @@
   "page": "/practice-areas/earth-agriculture",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "2142 chars"
+  "detail": "2176 chars"
  },
  {
   "page": "/practice-areas/earth-agriculture",
@@ -909,7 +909,7 @@
   "page": "/international-connect",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "3672 chars"
+  "detail": "3706 chars"
  },
  {
   "page": "/international-connect",
@@ -931,6 +931,240 @@
  },
  {
   "page": "/international-connect",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/network-partners",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Network Partners | Jugaad Advisory"
+ },
+ {
+  "page": "/network-partners",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "164 chars"
+ },
+ {
+  "page": "/network-partners",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/network-partners"
+ },
+ {
+  "page": "/network-partners",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/network-partners",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "2319 chars"
+ },
+ {
+  "page": "/network-partners",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "7 phrases found"
+ },
+ {
+  "page": "/network-partners",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList"
+ },
+ {
+  "page": "/network-partners",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/shahid-siddiqui",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/network-partners/shahid-siddiqui",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/shahid-siddiqui",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Dr. M. Shahid Siddiqui | Network Partner | Jugaad Advisory"
+ },
+ {
+  "page": "/network-partners/shahid-siddiqui",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "148 chars"
+ },
+ {
+  "page": "/network-partners/shahid-siddiqui",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/network-partners/shahid-siddiqui"
+ },
+ {
+  "page": "/network-partners/shahid-siddiqui",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/shahid-siddiqui",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/shahid-siddiqui",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/network-partners/shahid-siddiqui",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "2029 chars"
+ },
+ {
+  "page": "/network-partners/shahid-siddiqui",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "5 phrases found"
+ },
+ {
+  "page": "/network-partners/shahid-siddiqui",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList,Person"
+ },
+ {
+  "page": "/network-partners/shahid-siddiqui",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/shahid-siddiqui",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/kp-singh",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/network-partners/kp-singh",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/kp-singh",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "K. P. Singh | Network Partner | Jugaad Advisory"
+ },
+ {
+  "page": "/network-partners/kp-singh",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "163 chars"
+ },
+ {
+  "page": "/network-partners/kp-singh",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/network-partners/kp-singh"
+ },
+ {
+  "page": "/network-partners/kp-singh",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/kp-singh",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/kp-singh",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/network-partners/kp-singh",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "2129 chars"
+ },
+ {
+  "page": "/network-partners/kp-singh",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "6 phrases found"
+ },
+ {
+  "page": "/network-partners/kp-singh",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList,Person"
+ },
+ {
+  "page": "/network-partners/kp-singh",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/kp-singh",
   "name": "no placeholder/template text",
   "ok": true,
   "detail": ""
@@ -987,7 +1221,7 @@
   "page": "/insights",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "1492 chars"
+  "detail": "1526 chars"
  },
  {
   "page": "/insights",
@@ -1065,7 +1299,7 @@
   "page": "/contact",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "1608 chars"
+  "detail": "1642 chars"
  },
  {
   "page": "/contact",
@@ -1143,7 +1377,7 @@
   "page": "/privacy-policy",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "1391 chars"
+  "detail": "1425 chars"
  },
  {
   "page": "/privacy-policy",
@@ -1221,7 +1455,7 @@
   "page": "/terms",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "1295 chars"
+  "detail": "1329 chars"
  },
  {
   "page": "/terms",
@@ -1274,6 +1508,12 @@
  {
   "page": "links",
   "name": "internal link /international-connect -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /network-partners -> 200",
   "ok": true,
   "detail": "status 200"
  },
@@ -1344,6 +1584,18 @@
   "detail": "status 200"
  },
  {
+  "page": "links",
+  "name": "internal link /network-partners/shahid-siddiqui -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "links",
+  "name": "internal link /network-partners/kp-singh -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
   "page": "assets",
   "name": "asset /favicon.png -> 200",
   "ok": true,
@@ -1387,7 +1639,7 @@
  },
  {
   "page": "links",
-  "name": "crawled 16 distinct internal links and 7 assets",
+  "name": "crawled 19 distinct internal links and 7 assets",
   "ok": true,
   "detail": ""
  },
@@ -1399,9 +1651,9 @@
  },
  {
   "page": "sitemap",
-  "name": "lists all 16 public pages, nothing extra",
+  "name": "lists all 19 public pages, nothing extra",
   "ok": true,
-  "detail": "16 urls"
+  "detail": "19 urls"
  },
  {
   "page": "robots",
@@ -1644,6 +1896,60 @@
   "detail": ""
  },
  {
+  "page": "desktop /network-partners",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /network-partners",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /network-partners",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /network-partners/shahid-siddiqui",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /network-partners/shahid-siddiqui",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /network-partners/shahid-siddiqui",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /network-partners/kp-singh",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /network-partners/kp-singh",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /network-partners/kp-singh",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
   "page": "desktop /insights",
   "name": "loads (200), no JS errors",
   "ok": true,
@@ -1927,6 +2233,60 @@
  },
  {
   "page": "mobile /international-connect",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /network-partners",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /network-partners",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /network-partners",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /network-partners/shahid-siddiqui",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /network-partners/shahid-siddiqui",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /network-partners/shahid-siddiqui",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /network-partners/kp-singh",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /network-partners/kp-singh",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /network-partners/kp-singh",
   "name": "no broken images",
   "ok": true,
   "detail": ""

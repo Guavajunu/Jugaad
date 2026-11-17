@@ -1,6 +1,7 @@
 import { P } from "./content";
+import { PARTNERS } from "./partners";
 
-export interface Route { key: string; path: string; title: string; description: string; crumbs: [string, string][]; }
+export interface Route { key: string; path: string; title: string; description: string; crumbs: [string, string][]; person?: { name: string; jobTitle: string; sameAs?: string }; }
 
 const PA: [string, string] = ["Practice Areas", "/practice-areas"];
 const practiceMeta: Record<string, [string, string]> = {
@@ -28,6 +29,13 @@ export const ROUTES: Route[] = [
   })),
   { key: "connect", path: "/international-connect", title: "International & National Connect | Jugaad Advisory",
     description: "Relationship-led introductions and institutional engagement across India and internationally: business, industry, government and diplomatic-institutional networks. No outcomes guaranteed.", crumbs: [["International & National Connect", "/international-connect"]] },
+  { key: "partners", path: "/network-partners", title: "Network Partners | Jugaad Advisory",
+    description: "Independent specialists who work with Jugaad Advisory when an assignment needs deeper expertise: international relations, infrastructure, civic governance and more.", crumbs: [["Network Partners", "/network-partners"]] },
+  ...PARTNERS.map((p): Route => ({
+    key: `partner-${p.id}`, path: `/network-partners/${p.id}`, title: `${p.name} | Network Partner | Jugaad Advisory`,
+    description: p.meta, crumbs: [["Network Partners", "/network-partners"], [p.name, `/network-partners/${p.id}`]],
+    person: { name: p.name, jobTitle: p.title, sameAs: p.linkedin },
+  })),
   { key: "insights", path: "/insights", title: "Insights | Jugaad Advisory",
     description: "An independent journal of observations on strategy, creativity, property, institutions, agriculture and the environment. Articles will be published here.", crumbs: [["Insights", "/insights"]] },
   { key: "contact", path: "/contact", title: "Contact Jugaad Advisory | Tell Us What You Are Trying to Solve",
