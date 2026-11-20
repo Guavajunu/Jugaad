@@ -11,8 +11,8 @@ export interface Partner {
   initials: string;      // shown on the card until a photo is added
   title: string;         // e.g. "Partner, International Relations"
   card: string;          // 1-2 sentences for the card
-  meta: string;          // search-result description, 50-200 characters
-  about: string[];       // paragraphs for the profile page
+  meta?: string;         // search-result description, 50-200 characters (needed only when `about` is filled)
+  about: string[];       // paragraphs for the profile page. Leave EMPTY ([]) to show the card only, with no profile page yet
   areas: string[];       // short list shown as ticks
   related: [string, string][]; // [label, path] links to the matching practice areas
   linkedin?: string;     // optional, only if the partner wants it shown
@@ -47,5 +47,31 @@ export const PARTNERS: Partner[] = [
     meta: "Partner, Infrastructure & Civic Governance. Retired after about 36 years with the Municipal Corporation of Delhi, including over 12 years as Engineer-in-Chief.",
     areas: ["Engineering and infrastructure", "Municipal and civic administration", "Management", "Law"],
     related: [["Property & Realty", "/practice-areas/realty"], ["Legal & Resolution", "/practice-areas/legal-resolution"]],
+  },
+  {
+    id: "mihir-sojitra",
+    name: "CS Mihir Sojitra",
+    initials: "MS",
+    title: "Partner, Corporate Governance & Compliance",
+    card: "Practising Company Secretary in Surat and past Chairman of the Surat Chapter of the Institute of Company Secretaries of India (ICSI). Works in corporate governance, compliance and CSR.",
+    about: [
+      "CS Mihir Sojitra is a network partner of Jugaad Advisory for corporate governance and compliance. He is a practising Company Secretary based in Surat. He was Chairman of the Surat Chapter of the Institute of Company Secretaries of India (ICSI) in 2025, and earlier served as its Secretary in 2023 and 2024.",
+      "His qualifications include Company Secretary (CS), Master of Commerce (M.Com), certification as an Independent Director from the Indian Institute of Corporate Affairs (IICA), a certificate course in import and export, and a CSR professional certification. He is pursuing a Ph.D. at Veer Narmad South Gujarat University (VNSGU).",
+      "He is also a regular speaker at schools and colleges.",
+    ],
+    meta: "Partner, Corporate Governance & Compliance. Practising Company Secretary and past Chairman of the Surat Chapter of ICSI, working in governance, compliance and CSR.",
+    areas: ["Company law and corporate governance", "Corporate compliance", "Independent directorship", "CSR", "Import and export"],
+    related: [["Business", "/practice-areas/business"], ["Legal & Resolution", "/practice-areas/legal-resolution"]],
+    photo: "/assets/img/partner-mihir-sojitra.jpg",
+  },
+  {
+    id: "ajay-vaghasia",
+    name: "CA Ajay Vaghasia",
+    initials: "AV",
+    title: "Partner, Tax Advisory",
+    card: "Chartered Accountant, working in tax advisory.",
+    about: [], // card only for now; add paragraphs, areas and a `meta` line when his details arrive and he approves them
+    areas: [],
+    related: [],
   },
 ];

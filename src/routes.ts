@@ -31,9 +31,9 @@ export const ROUTES: Route[] = [
     description: "Relationship-led introductions and institutional engagement across India and internationally: business, industry, government and diplomatic-institutional networks. No outcomes guaranteed.", crumbs: [["International & National Connect", "/international-connect"]] },
   { key: "partners", path: "/network-partners", title: "Network Partners | Jugaad Advisory",
     description: "Independent specialists who work with Jugaad Advisory when an assignment needs deeper expertise: international relations, infrastructure, civic governance and more.", crumbs: [["Network Partners", "/network-partners"]] },
-  ...PARTNERS.map((p): Route => ({
+  ...PARTNERS.filter((p) => p.about.length > 0).map((p): Route => ({
     key: `partner-${p.id}`, path: `/network-partners/${p.id}`, title: `${p.name} | Network Partner | Jugaad Advisory`,
-    description: p.meta, crumbs: [["Network Partners", "/network-partners"], [p.name, `/network-partners/${p.id}`]],
+    description: p.meta ?? p.card, crumbs: [["Network Partners", "/network-partners"], [p.name, `/network-partners/${p.id}`]],
     person: { name: p.name, jobTitle: p.title, sameAs: p.linkedin },
   })),
   { key: "insights", path: "/insights", title: "Insights | Jugaad Advisory",

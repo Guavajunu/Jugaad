@@ -987,13 +987,13 @@
   "page": "/network-partners",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "2319 chars"
+  "detail": "2672 chars"
  },
  {
   "page": "/network-partners",
   "name": "approved content present in initial HTML",
   "ok": true,
-  "detail": "7 phrases found"
+  "detail": "11 phrases found"
  },
  {
   "page": "/network-partners",
@@ -1165,6 +1165,84 @@
  },
  {
   "page": "/network-partners/kp-singh",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/mihir-sojitra",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/network-partners/mihir-sojitra",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/mihir-sojitra",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "CS Mihir Sojitra | Network Partner | Jugaad Advisory"
+ },
+ {
+  "page": "/network-partners/mihir-sojitra",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "167 chars"
+ },
+ {
+  "page": "/network-partners/mihir-sojitra",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/network-partners/mihir-sojitra"
+ },
+ {
+  "page": "/network-partners/mihir-sojitra",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/mihir-sojitra",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/mihir-sojitra",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/network-partners/mihir-sojitra",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "2449 chars"
+ },
+ {
+  "page": "/network-partners/mihir-sojitra",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "5 phrases found"
+ },
+ {
+  "page": "/network-partners/mihir-sojitra",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList,Person"
+ },
+ {
+  "page": "/network-partners/mihir-sojitra",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/mihir-sojitra",
   "name": "no placeholder/template text",
   "ok": true,
   "detail": ""
@@ -1596,6 +1674,12 @@
   "detail": "status 200"
  },
  {
+  "page": "links",
+  "name": "internal link /network-partners/mihir-sojitra -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
   "page": "assets",
   "name": "asset /favicon.png -> 200",
   "ok": true,
@@ -1638,8 +1722,14 @@
   "detail": "status 200"
  },
  {
+  "page": "assets",
+  "name": "asset /assets/img/partner-mihir-sojitra.jpg -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
   "page": "links",
-  "name": "crawled 19 distinct internal links and 7 assets",
+  "name": "crawled 20 distinct internal links and 8 assets",
   "ok": true,
   "detail": ""
  },
@@ -1651,9 +1741,9 @@
  },
  {
   "page": "sitemap",
-  "name": "lists all 19 public pages, nothing extra",
+  "name": "lists all 20 public pages, nothing extra",
   "ok": true,
-  "detail": "19 urls"
+  "detail": "20 urls"
  },
  {
   "page": "robots",
@@ -1950,6 +2040,24 @@
   "detail": ""
  },
  {
+  "page": "desktop /network-partners/mihir-sojitra",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /network-partners/mihir-sojitra",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /network-partners/mihir-sojitra",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
   "page": "desktop /insights",
   "name": "loads (200), no JS errors",
   "ok": true,
@@ -2287,6 +2395,24 @@
  },
  {
   "page": "mobile /network-partners/kp-singh",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /network-partners/mihir-sojitra",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /network-partners/mihir-sojitra",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /network-partners/mihir-sojitra",
   "name": "no broken images",
   "ok": true,
   "detail": ""

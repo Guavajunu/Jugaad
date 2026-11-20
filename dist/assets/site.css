@@ -47,3 +47,4 @@ footer{padding:56px 0 40px;font-size:.88rem;color:var(--mute)}footer .cols{displ
 .pcard img,.pprof img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:50% 20%}
 .pprof .mono{border:1px solid var(--rule)}
 .pcard .mono{aspect-ratio:auto;height:150px;font-size:3.2rem}.pprof .mono{aspect-ratio:auto;height:240px;font-size:4rem}
+.pcards{align-items:start}
