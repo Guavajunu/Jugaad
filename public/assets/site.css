@@ -48,3 +48,4 @@ footer{padding:56px 0 40px;font-size:.88rem;color:var(--mute)}footer .cols{displ
 .pprof .mono{border:1px solid var(--rule)}
 .pcard .mono{aspect-ratio:auto;height:150px;font-size:3.2rem}.pprof .mono{aspect-ratio:auto;height:240px;font-size:4rem}
 .pcards{align-items:start}
+.sig{margin-top:32px}.sig b{font-weight:600}.sig span{color:var(--mute);font-size:.95rem}

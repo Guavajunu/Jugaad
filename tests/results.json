@@ -129,13 +129,13 @@
   "page": "/about",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "3837 chars"
+  "detail": "5580 chars"
  },
  {
   "page": "/about",
   "name": "approved content present in initial HTML",
   "ok": true,
-  "detail": "10 phrases found"
+  "detail": "14 phrases found"
  },
  {
   "page": "/about",
