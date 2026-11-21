@@ -5,7 +5,7 @@ export const CFG = {
   legalEntity: "Guava Creative Solutions Private Limited",
   founder: "Junaid Memon",
   founderAlt: ["Zunaid Memon"], // alternate spelling, shown on the About page and in structured data
-  founderLinks: ["https://www.facebook.com/junaidnomad"] as string[], // add Wikipedia/other social URLs here when supplied; LinkedIn is added automatically
+  founderLinks: ["https://www.facebook.com/junaidnomad", "https://x.com/junaidfarmer"] as string[], // add Wikipedia/other social URLs here when supplied; LinkedIn is added automatically
   url: "https://jugaadadvisory.com",
   phone: "+91 98200 79484",
   wa: "919820079484",
