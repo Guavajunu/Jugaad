@@ -1,7 +1,8 @@
+import { CFG } from "./config";
 import { P } from "./content";
 import { PARTNERS } from "./partners";
 
-export interface Route { key: string; path: string; title: string; description: string; crumbs: [string, string][]; person?: { name: string; jobTitle: string; sameAs?: string }; }
+export interface Route { key: string; path: string; title: string; description: string; crumbs: [string, string][]; person?: { name: string; jobTitle: string; sameAs?: string[]; alternateName?: string[] }; }
 
 const PA: [string, string] = ["Practice Areas", "/practice-areas"];
 const practiceMeta: Record<string, [string, string]> = {
@@ -18,7 +19,8 @@ export const ROUTES: Route[] = [
   { key: "home", path: "/", title: "Jugaad Advisory | The Problem Solver",
     description: "An independent, founder-led advisory practice helping businesses, entrepreneurs, institutions and individuals understand complicated situations and find a practical way forward.", crumbs: [] },
   { key: "about", path: "/about", title: "About Jugaad Advisory | A Founder-Led Advisory Practice",
-    description: "Real-world problems rarely arrive in neat categories. Learn what Jugaad means, how the practice works, and the experience of founder Junaid Memon.", crumbs: [["About", "/about"]] },
+    description: "Real-world problems rarely arrive in neat categories. Learn what Jugaad means, how the practice works, and the experience of founder Junaid Memon (also written Zunaid Memon).", crumbs: [["About", "/about"]],
+    person: { name: CFG.founder, jobTitle: "Founder, Jugaad Advisory", alternateName: CFG.founderAlt, sameAs: [CFG.linkedin, ...CFG.founderLinks] } },
   { key: "approach", path: "/approach", title: "The Approach | Jugaad Advisory",
     description: "The problem comes first and the solution follows: listen, understand, explore, connect and move forward, within a scope agreed for each assignment.", crumbs: [["The Approach", "/approach"]] },
   { key: "practice", path: "/practice-areas", title: "Practice Areas | Jugaad Advisory",
@@ -34,7 +36,7 @@ export const ROUTES: Route[] = [
   ...PARTNERS.filter((p) => p.about.length > 0).map((p): Route => ({
     key: `partner-${p.id}`, path: `/network-partners/${p.id}`, title: `${p.name} | Network Partner | Jugaad Advisory`,
     description: p.meta ?? p.card, crumbs: [["Network Partners", "/network-partners"], [p.name, `/network-partners/${p.id}`]],
-    person: { name: p.name, jobTitle: p.title, sameAs: p.linkedin },
+    person: { name: p.name, jobTitle: p.title, sameAs: p.linkedin ? [p.linkedin] : undefined },
   })),
   { key: "insights", path: "/insights", title: "Insights | Jugaad Advisory",
     description: "An independent journal of observations on strategy, creativity, property, institutions, agriculture and the environment. Articles will be published here.", crumbs: [["Insights", "/insights"]] },

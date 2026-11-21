@@ -11,7 +11,7 @@ function jsonLd(r: Route): string {
     "@type": "Organization", "@id": CFG.url + "/#organization", name: CFG.brand, alternateName: CFG.descriptor, url: CFG.url + "/",
     logo: CFG.url + "/assets/img/logo.jpg", telephone: CFG.phone.replace(/\s/g, ""), email: EMAIL,
     parentOrganization: { "@type": "Organization", name: CFG.legalEntity },
-    founder: { "@type": "Person", name: CFG.founder },
+    founder: { "@type": "Person", name: CFG.founder, alternateName: CFG.founderAlt, sameAs: [CFG.linkedin, ...CFG.founderLinks] },
     sameAs: [CFG.linkedin, ...Object.values(CFG.social).filter(Boolean)],
     contactPoint: { "@type": "ContactPoint", contactType: "enquiries", telephone: CFG.phone.replace(/\s/g, ""), email: EMAIL, availableLanguage: ["English", "Hindi"] },
   };
@@ -20,7 +20,7 @@ function jsonLd(r: Route): string {
     graph.push(org, { "@type": "WebSite", "@id": CFG.url + "/#website", url: CFG.url + "/", name: CFG.brand, description: r.description, publisher: { "@id": CFG.url + "/#organization" }, inLanguage: "en-IN" });
   } else {
     graph.push({ "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: CFG.url + "/" }, ...r.crumbs.map((c, i) => ({ "@type": "ListItem", position: i + 2, name: c[0], item: abs(c[1]) }))] });
-    if (r.person) graph.push({ "@type": "Person", name: r.person.name, jobTitle: r.person.jobTitle, url: abs(r.path), ...(r.person.sameAs ? { sameAs: [r.person.sameAs] } : {}) });
+    if (r.person) graph.push({ "@type": "Person", name: r.person.name, jobTitle: r.person.jobTitle, url: abs(r.path), ...(r.person.alternateName ? { alternateName: r.person.alternateName } : {}), ...(r.person.sameAs ? { sameAs: r.person.sameAs } : {}) });
   }
   return `<script type="application/ld+json">${JSON.stringify({ "@context": "https://schema.org", "@graph": graph }).replace(/</g, "\\u003c")}</script>`;
 }

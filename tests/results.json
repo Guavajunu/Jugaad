@@ -99,7 +99,7 @@
   "page": "/about",
   "name": "meta description present, unique, 50-200 chars",
   "ok": true,
-  "detail": "146 chars"
+  "detail": "174 chars"
  },
  {
   "page": "/about",
@@ -129,19 +129,19 @@
   "page": "/about",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "5580 chars"
+  "detail": "5608 chars"
  },
  {
   "page": "/about",
   "name": "approved content present in initial HTML",
   "ok": true,
-  "detail": "14 phrases found"
+  "detail": "16 phrases found"
  },
  {
   "page": "/about",
   "name": "structured data valid",
   "ok": true,
-  "detail": "BreadcrumbList"
+  "detail": "BreadcrumbList,Person"
  },
  {
   "page": "/about",
