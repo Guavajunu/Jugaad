@@ -13,7 +13,8 @@ export const CFG = {
   publicEmailLive: true, // set false to fall back to the founder email if the mailbox is not working
   founderEmail: "junaid@guavaindia.com",
   linkedin: "https://www.linkedin.com/in/junaidnomad/",
-  social: { facebook: "", instagram: "https://www.instagram.com/jugaadadvisory", x: "", youtube: "" }, // TODO: add exact URLs when supplied
+  linkedinCompany: "https://www.linkedin.com/company/jugaad-advisory/",
+  social: { facebook: "https://www.facebook.com/jugaadadvisory", instagram: "https://www.instagram.com/jugaadadvisory", x: "https://x.com/jugaadadvisory", youtube: "https://www.youtube.com/@jugaadadvisory" }, // TODO: add exact URLs when supplied
   formEndpoint: "", // TODO: optional form service URL. Empty = visitor's email app is used (no false "sent" message)
   analytics: "", // TODO: privacy-conscious analytics integration point (e.g. a Cloudflare Web Analytics token)
   lastModified: "2026-11-21",

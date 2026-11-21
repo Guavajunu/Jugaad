@@ -44,7 +44,7 @@ const ROUTES = {
   "/network-partners/kp-singh": ["K. P. Singh", "Partner, Infrastructure &amp; Civic Governance", "Municipal Corporation of Delhi", "more than 12 years as Engineer-in-Chief", "MBA and a law qualification", "Property &amp; Realty"],
   "/network-partners/mihir-sojitra": ["CS Mihir Sojitra", "Partner, Corporate Governance &amp; Compliance", "practising Company Secretary", "Surat Chapter of the Institute of Company Secretaries of India", "Independent Director from the Indian Institute of Corporate Affairs"],
   "/insights": ["Observations from the work.", "Placeholder — article to come"],
-  "/contact": ["Tell us what you are trying to solve.", "Name", "Country", "Area of interest", "Brief description of the situation", "Preferred method of contact", "Prepare my enquiry", "inquiry@jugaadadvisory.com", "+91 98200 79484", "wa.me/919820079484", "linkedin.com/in/junaidnomad"],
+  "/contact": ["Tell us what you are trying to solve.", "Name", "Country", "Area of interest", "Brief description of the situation", "Preferred method of contact", "Prepare my enquiry", "inquiry@jugaadadvisory.com", "+91 98200 79484", "wa.me/919820079484", "linkedin.com/company/jugaad-advisory"],
   "/privacy-policy": ["Privacy Policy", "Starter text"],
   "/terms": ["Terms of Use", "Starter text"],
 };
