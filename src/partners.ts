@@ -65,6 +65,22 @@ export const PARTNERS: Partner[] = [
     photo: "/assets/img/partner-mihir-sojitra.jpg",
   },
   {
+    id: "harmesh-gupta",
+    name: "Harmesh Gupta",
+    initials: "HG",
+    title: "Partner, Corporate Finance & Restructuring",
+    card: "Entrepreneur, investor and consultant with more than 18 years of experience in management consulting, debt syndication, due diligence, M&A and the restructuring of distressed accounts.",
+    about: [
+      "Harmesh Gupta is a network partner of Jugaad Advisory for corporate finance and restructuring. He is an entrepreneur, investor and consultant with more than 18 years of experience, and his work covers trading, management consulting, mergers and acquisitions, debt syndication and due diligence.",
+      "He has a particular knack for restructuring distressed accounts. He has worked with some of the leading business houses in India and abroad, and with India's top public sector banks on due diligence and syndication. He is on the panel of a debt restructuring agency as an advisor.",
+      "Within the network, he supports businesses that need to plan ahead, meet the benchmarks they have set, shape long-term strategy and raise funds.",
+    ],
+    meta: "Partner, Corporate Finance & Restructuring. Over 18 years in management consulting, debt syndication, due diligence, M&A and distressed account restructuring.",
+    areas: ["Management consulting", "Debt syndication", "Due diligence", "Mergers and acquisitions", "Restructuring of distressed accounts", "Forecasting and fundraising"],
+    related: [["Business", "/practice-areas/business"], ["Legal & Resolution", "/practice-areas/legal-resolution"]],
+    photo: "/assets/img/partner-harmesh-gupta.jpg",
+  },
+  {
     id: "ajay-vaghasia",
     name: "CA Ajay Vaghasia",
     initials: "AV",

@@ -987,7 +987,7 @@
   "page": "/network-partners",
   "name": "substantial text in initial HTML",
   "ok": true,
-  "detail": "2701 chars"
+  "detail": "2966 chars"
  },
  {
   "page": "/network-partners",
@@ -1165,6 +1165,84 @@
  },
  {
   "page": "/network-partners/kp-singh",
+  "name": "no placeholder/template text",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/harmesh-gupta",
+  "name": "HTTP 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
+  "page": "/network-partners/harmesh-gupta",
+  "name": "content-type html",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/harmesh-gupta",
+  "name": "title present, unique, <=70 chars",
+  "ok": true,
+  "detail": "Harmesh Gupta | Network Partner | Jugaad Advisory"
+ },
+ {
+  "page": "/network-partners/harmesh-gupta",
+  "name": "meta description present, unique, 50-200 chars",
+  "ok": true,
+  "detail": "166 chars"
+ },
+ {
+  "page": "/network-partners/harmesh-gupta",
+  "name": "canonical correct",
+  "ok": true,
+  "detail": "https://jugaadadvisory.com/network-partners/harmesh-gupta"
+ },
+ {
+  "page": "/network-partners/harmesh-gupta",
+  "name": "og:title/description/url/image + twitter card",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/harmesh-gupta",
+  "name": "og:url equals canonical",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/harmesh-gupta",
+  "name": "exactly one <h1>",
+  "ok": true,
+  "detail": "1 found"
+ },
+ {
+  "page": "/network-partners/harmesh-gupta",
+  "name": "substantial text in initial HTML",
+  "ok": true,
+  "detail": "2539 chars"
+ },
+ {
+  "page": "/network-partners/harmesh-gupta",
+  "name": "approved content present in initial HTML",
+  "ok": true,
+  "detail": "4 phrases found"
+ },
+ {
+  "page": "/network-partners/harmesh-gupta",
+  "name": "structured data valid",
+  "ok": true,
+  "detail": "BreadcrumbList,Person"
+ },
+ {
+  "page": "/network-partners/harmesh-gupta",
+  "name": "no hash-navigation links",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "/network-partners/harmesh-gupta",
   "name": "no placeholder/template text",
   "ok": true,
   "detail": ""
@@ -1680,6 +1758,12 @@
   "detail": "status 200"
  },
  {
+  "page": "links",
+  "name": "internal link /network-partners/harmesh-gupta -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
   "page": "assets",
   "name": "asset /favicon.png -> 200",
   "ok": true,
@@ -1728,8 +1812,14 @@
   "detail": "status 200"
  },
  {
+  "page": "assets",
+  "name": "asset /assets/img/partner-harmesh-gupta.jpg -> 200",
+  "ok": true,
+  "detail": "status 200"
+ },
+ {
   "page": "links",
-  "name": "crawled 20 distinct internal links and 8 assets",
+  "name": "crawled 21 distinct internal links and 9 assets",
   "ok": true,
   "detail": ""
  },
@@ -1741,9 +1831,9 @@
  },
  {
   "page": "sitemap",
-  "name": "lists all 20 public pages, nothing extra",
+  "name": "lists all 21 public pages, nothing extra",
   "ok": true,
-  "detail": "20 urls"
+  "detail": "21 urls"
  },
  {
   "page": "robots",
@@ -2040,6 +2130,24 @@
   "detail": ""
  },
  {
+  "page": "desktop /network-partners/harmesh-gupta",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "desktop /network-partners/harmesh-gupta",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "desktop /network-partners/harmesh-gupta",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
   "page": "desktop /network-partners/mihir-sojitra",
   "name": "loads (200), no JS errors",
   "ok": true,
@@ -2395,6 +2503,24 @@
  },
  {
   "page": "mobile /network-partners/kp-singh",
+  "name": "no broken images",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /network-partners/harmesh-gupta",
+  "name": "loads (200), no JS errors",
+  "ok": true,
+  "detail": ""
+ },
+ {
+  "page": "mobile /network-partners/harmesh-gupta",
+  "name": "no horizontal overflow",
+  "ok": true,
+  "detail": "0px"
+ },
+ {
+  "page": "mobile /network-partners/harmesh-gupta",
   "name": "no broken images",
   "ok": true,
   "detail": ""
